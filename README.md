@@ -1,3 +1,65 @@
+# WebAPP de Listado de Pokemon
+
+_Sistema desarrollado por anderson bastidas a modo de practica y material educativo_
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+
+_Para poder inicializar el sistema se requiere lo siguiente :_
+
+```
+1. Node JS.
+2. Visual Studio Code (Editor de Codigo).
+3. GIT.
+4. React.
+```
+
+### Instalación 🔧
+```
+_Bajar los archivos
+
+```
+
+## Despliegue 📦
+
+_Copiar la carpeta del proyecto C:\xampp\htdocs, y cambiar la cadena de conexion de la base de datos en el siguiente archivo /Config/Conexion.php._
+
+## Construido con 🛠️
+
+_Las herramientas utilizadas son las siguientes_
+
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de Codigo
+* [Git](https://git-scm.com/) - Manejador de Versiones
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://github.com/tu/proyecto/wiki) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
+## Autores ✒️
+
+* **Anderson Bastidas** - *Trabajo Inicial* - [AndersX87](https://github.com/Anders87x) - *Pagina Web* - [AndersX87](https://anders87x.github.io/)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+---
+⌨️ con ❤️ por [Anders87X](https://github.com/Anders87x) 😊
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
