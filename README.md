@@ -25,7 +25,7 @@ _Bajar los archivos
 
 ## Despliegue 📦
 
-_Copiar la carpeta del proyecto C:\xampp\htdocs, y cambiar la cadena de conexion de la base de datos en el siguiente archivo /Config/Conexion.php._
+_Construir y publicar_
 
 ## Construido con 🛠️
 
