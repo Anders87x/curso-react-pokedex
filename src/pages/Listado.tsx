@@ -23,7 +23,7 @@ const Listado=()=>{
         ObtenerTodos();
     });
 
-    const filtrarpokemon=pokemons?.slice(0,151).filter((pokemon)=>{
+    const filtrarpokemon=pokemons?.slice(0,251).filter((pokemon)=>{
         return pokemon.name.toLowerCase().match(query.toLowerCase());
     })
 
@@ -44,7 +44,7 @@ const Listado=()=>{
                 <div className="content">
                     <div className="row gap-3">
 
-                        {filtrarpokemon?.slice(0,151).map((pokemon)=>(
+                        {filtrarpokemon?.slice(0,251).map((pokemon)=>(
                             <Card className="mx-auto" style={{ width: '18rem' }}>
                             <Card.Header><b>Tipo:</b> {pokemon.type}</Card.Header>
                             <Card.Img width="80" height="100" variant="top" src={pokemon.imggif} className="d-block mx-auto w-50"/>
